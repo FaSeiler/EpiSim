@@ -20,6 +20,6 @@ For further questions, please contact fabian.seiler@outlook.de
 © 2021 Fabian Seiler All Rights Reserved
 
 # Images
-![City](Doc/screenshot/Stadtlayout.png)
-![Simulation](Doc/screenshot/Simulation_Liniendiagramm.png)
-![Settings](Doc/screenshot/Grundeinstellungen.png)
+![City](Screenshots/Stadtlayout.png)
+![Simulation](Screenshots/Simulation_Liniendiagramm.png)
+![Settings](Screenshots/Grundeinstellungen.png)
