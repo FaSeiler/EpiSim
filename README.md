@@ -21,5 +21,5 @@ For further questions, please contact fabian.seiler@outlook.de
 
 # Images
 ![City](Screenshots/Stadtlayout.png)
-![Simulation](Screenshots/Simulation_Liniendiagramm.png)
-![Settings](Screenshots/Grundeinstellungen.png)
+![Simulation](Screenshots/Simulation_Liniendiagramm.PNG)
+![Settings](Screenshots/Grundeinstellungen.PNG)
