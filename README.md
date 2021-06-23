@@ -7,6 +7,9 @@
 <p align="center">
   An easy to use agent based pandemic simulation.
 </p>
+<p align="center">
+  <a id="raw-url" href="https://raw.githubusercontent.com/FaSeiler/EpiSim/master/EpiSim.zip">Download</a>
+</p>
 
 # About
 This application was developed as part of a bachelor thesis in the course of study Computer Science - Game Engineering at the University of Applied Sciences Kempten.
@@ -16,6 +19,9 @@ EpiSim is an agent-based real-time simulation of pandemics that allows users to 
 The aim of this work is not to depict and simulate a real infection event, such as that of the Covid-19 pandemic, but rather to create a basic understanding of the topic. Therefore, no conclusions should be drawn on the use of real prevention measures to contain a virus. This simulation is for demonstrational and educational purposes only.
 
 For further questions, please contact fabian.seiler@outlook.de
+
+
+
 
 © 2021 Fabian Seiler All Rights Reserved
 
